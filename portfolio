@@ -6,4 +6,16 @@
     <link href="styles/style1.css"
       type="text/css" rel="stylesheet"/>
   </head>
+  <body>
+  <table>
+    <th>Samples</th>
+    <tr>
+      <img src="C:\Users\celin\github\bt-portfolio\images\i1.jpg" alt="woman reading comic" height="200" width="350">
+    </tr>
+    <tr>
+      <img src="C:\Users\celin\github\bt-portfolio\images\i1.jpg" alt="woman reading comic" height="200" width="350">
+    </tr>
+  </table>
+
+  </body>
   </html>
